@@ -1,0 +1,14 @@
+<templateSet group="JavaScript">
+  <template name="inst" value="/**&#10; * Default Instance&#10; * @returns {$TYPE$}&#10; */&#10;static get inst() {&#10;  if (!this._default$TYPE$) {&#10;    this._default$TYPE$ = new $TYPE$();&#10;  }&#10;  return this._default$TYPE$;&#10;}" description="Creates the instance method" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="basics" value="@param {HttpBasics} basics The http basics." description="JS doc for HttpBasics" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
