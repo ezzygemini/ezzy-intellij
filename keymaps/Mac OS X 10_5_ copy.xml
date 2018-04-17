@@ -32,6 +32,9 @@
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="meta f11" />
   </action>
+  <action id="Tool_External Tools_Prettier">
+    <keyboard-shortcut first-keystroke="ctrl meta alt l" />
+  </action>
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="ctrl meta alt h" />
   </action>
