@@ -4,6 +4,7 @@
       <list>
         <Profile>
           <option name="defaultProfile" value="true" />
+          <option name="enableFoldings" value="true" />
           <option name="enabledInputFiltering" value="false" />
           <option name="grepExpressionGroups">
             <list>
@@ -139,9 +140,46 @@
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="continueMatching" value="true" />
+                      <option name="fold" value="true" />
+                      <option name="grepExpression" value=".*\-{2,}.*" />
+                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="id" value="0e740cbc-4c2a-480c-9dc7-59140fbc36cc" />
+                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-16742007" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="54ec87fd-c048-4b1b-ad3f-edc149831421" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="caseInsensitive" value="true" />
+                      <option name="continueMatching" value="true" />
+                      <option name="fold" value="true" />
+                      <option name="grepExpression" value=".*\[Handlebars (Helpers?|Partials?|Layouts?)\].*" />
+                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="id" value="1950d856-d111-4520-bb82-d41ea75abcff" />
+                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-16742007" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="73b3d2d5-385f-44e4-a681-cfcf8ac074cf" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
                   </list>
                 </option>
-                <option name="name" value="new" />
+                <option name="name" value="Nova" />
               </GrepExpressionGroup>
             </list>
           </option>
