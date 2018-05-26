@@ -11,4 +11,16 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="template" value="import template from './$TEMPLATE_NAME$';" description="Adds a small import template to the list of imports" toReformat="false" toShortenFQNames="true">
+    <variable name="TEMPLATE_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="graphqlquery" value="import $QUERY_NAME$Query from './qry/$QUERY_NAME$.graphql';&#10;" description="Generates an imported query from a graphql file" toReformat="false" toShortenFQNames="true">
+    <variable name="QUERY_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>

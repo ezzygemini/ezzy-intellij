@@ -5,7 +5,6 @@
         <Profile>
           <option name="defaultProfile" value="true" />
           <option name="enableFoldings" value="true" />
-          <option name="enabledHighlighting" value="false" />
           <option name="enabledInputFiltering" value="false" />
           <option name="grepExpressionGroups">
             <list>
@@ -105,6 +104,82 @@
                   </list>
                 </option>
                 <option name="name" value="default" />
+              </GrepExpressionGroup>
+              <GrepExpressionGroup>
+                <option name="grepExpressionItems">
+                  <list>
+                    <GrepExpressionItem>
+                      <option name="grepExpression" value=".*\[Raw Request\].*\/\s\(.*" />
+                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="id" value="da42a3a9-bd07-4eeb-8dfc-81121efb10e8" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-9342607" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="4adf693b-5f5f-4677-85b3-c5995e84e762" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="grepExpression" value=".*\[Raw Request\].*" />
+                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="id" value="e44accfb-8a3f-4b86-9378-cc3c32964638" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-12237499" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="d0b4d39c-71fe-44b0-bbd1-436c4c1220b7" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="continueMatching" value="true" />
+                      <option name="fold" value="true" />
+                      <option name="grepExpression" value=".*\-{2,}.*" />
+                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="id" value="0e740cbc-4c2a-480c-9dc7-59140fbc36cc" />
+                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-16742007" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="54ec87fd-c048-4b1b-ad3f-edc149831421" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="caseInsensitive" value="true" />
+                      <option name="continueMatching" value="true" />
+                      <option name="fold" value="true" />
+                      <option name="grepExpression" value=".*\[Handlebars (Helpers?|Partials?|Layouts?)\].*" />
+                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="id" value="1950d856-d111-4520-bb82-d41ea75abcff" />
+                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-16742007" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="73b3d2d5-385f-44e4-a681-cfcf8ac074cf" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                  </list>
+                </option>
+                <option name="name" value="Nova" />
               </GrepExpressionGroup>
             </list>
           </option>
