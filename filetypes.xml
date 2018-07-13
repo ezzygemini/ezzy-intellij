@@ -7,10 +7,10 @@
       <mapping pattern="getCachedData" type="PLAIN_TEXT" />
       <mapping pattern="deleteExpiredCacheEntries" type="PLAIN_TEXT" />
       <mapping pattern="getSiteIdsUsingTemplate" type="PLAIN_TEXT" />
-      <mapping pattern=".buildinclude" type="PLAIN_TEXT" />
+      <mapping pattern="start-profile" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="pfx" type="PLAIN_TEXT" />
-      <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping pattern="getRootNavigationItemId" type="SQL" />
     </extensionMap>
   </component>
