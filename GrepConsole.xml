@@ -143,7 +143,7 @@
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
                       <option name="fold" value="true" />
-                      <option name="grepExpression" value=".*\-\s{2,}.*" />
+                      <option name="grepExpression" value=".*\-\s+.*" />
                       <option name="highlightOnlyMatchingText" value="true" />
                       <option name="id" value="0e740cbc-4c2a-480c-9dc7-59140fbc36cc" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
