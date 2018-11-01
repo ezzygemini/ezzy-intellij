@@ -167,7 +167,6 @@
                       <option name="continueMatching" value="true" />
                       <option name="fold" value="true" />
                       <option name="grepExpression" value=".*\-\s+.*" />
-                      <option name="highlightOnlyMatchingText" value="true" />
                       <option name="id" value="57604201-4115-4b5c-b66e-875a6d72fb71" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
                       <option name="style">
@@ -180,6 +179,7 @@
                           <option name="id" value="4e32b444-bf24-4ccf-a0c4-bc217ebbe1e5" />
                         </GrepStyle>
                       </option>
+                      <option name="unlessGrepExpression" value=".*QUERY TIME.*" />
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="caseInsensitive" value="true" />
@@ -210,7 +210,7 @@
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
-                              <option name="color" value="-16742007" />
+                              <option name="color" value="-12237499" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
