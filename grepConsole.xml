@@ -168,7 +168,7 @@
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
-                              <option name="color" value="-16742007" />
+                              <option name="color" value="-12960955" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
@@ -179,7 +179,6 @@
                       <option name="continueMatching" value="true" />
                       <option name="grepExpression" value=".*\[Email\].*" />
                       <option name="highlightOnlyMatchingText" value="true" />
-                      <option name="id" value="8f2018b0-547c-475a-be00-c7aa79442a8a" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
                       <option name="showCountInConsole" value="true" />
                       <option name="sound">
@@ -203,7 +202,6 @@
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
-                          <option name="id" value="07312ed2-ecce-4d89-8647-566701bd45ed" />
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
@@ -212,7 +210,6 @@
                       <option name="fold" value="true" />
                       <option name="grepExpression" value="^\s*\[DBG\]\s+\[Hosts\].*" />
                       <option name="highlightOnlyMatchingText" value="true" />
-                      <option name="id" value="0033a60f-5b03-4903-945f-e8de3c12b4e4" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
                       <option name="style">
                         <GrepStyle>
@@ -221,7 +218,6 @@
                               <option name="color" value="-16742007" />
                             </GrepColor>
                           </option>
-                          <option name="id" value="5c0f6e0c-9559-4ad2-9ec1-6dd7f4c036ca" />
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
@@ -230,7 +226,6 @@
                       <option name="fold" value="true" />
                       <option name="grepExpression" value="^(\#\s+|\{local-ip-address).*" />
                       <option name="highlightOnlyMatchingText" value="true" />
-                      <option name="id" value="fe52c7ee-acd5-48d7-b1db-d13b91cab2b8" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
                       <option name="style">
                         <GrepStyle>
@@ -239,7 +234,6 @@
                               <option name="color" value="-16742007" />
                             </GrepColor>
                           </option>
-                          <option name="id" value="16657d0f-44ed-4842-91d5-7b9cd41940a9" />
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
