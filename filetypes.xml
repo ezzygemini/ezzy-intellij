@@ -7,8 +7,9 @@
       <mapping pattern="deleteExpiredCacheEntries" type="PLAIN_TEXT" />
       <mapping pattern="getCachedData" type="PLAIN_TEXT" />
       <mapping pattern="start-profile" type="PLAIN_TEXT" />
-      <mapping pattern="ComplexLinkQuery" type="PLAIN_TEXT" />
+      <mapping pattern="getAllTables" type="PLAIN_TEXT" />
       <mapping pattern="getSiteIdsUsingTemplate" type="PLAIN_TEXT" />
+      <mapping pattern="ComplexLinkQuery" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="pfx" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
