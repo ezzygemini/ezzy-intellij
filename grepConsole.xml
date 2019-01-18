@@ -5,7 +5,6 @@
         <Profile>
           <option name="defaultProfile" value="true" />
           <option name="enableFoldings" value="true" />
-          <option name="enabledInputFiltering" value="false" />
           <option name="grepExpressionGroups">
             <list>
               <GrepExpressionGroup>
@@ -288,6 +287,54 @@
                             </GrepColor>
                           </option>
                           <option name="id" value="16657d0f-44ed-4842-91d5-7b9cd41940a9" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="continueMatching" value="true" />
+                      <option name="grepExpression" value=".*\[New Websocket Connection\].*" />
+                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="id" value="780f9d86-5ffd-4b28-bc73-9c7ec009a337" />
+                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-16742117" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="color" value="-1" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="85ea49fd-11bd-4be6-ae73-a6059dc7b1aa" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="continueMatching" value="true" />
+                      <option name="grepExpression" value=".*\[Websocket Connection Disconnected\].*" />
+                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="id" value="b76261b3-7028-45c0-a80a-4b1bf18c562c" />
+                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-9853438" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="color" value="-1" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="f0b1f72d-a774-48fe-8517-18d2de8f0e62" />
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
