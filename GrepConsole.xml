@@ -103,6 +103,7 @@
                 <option name="grepExpressionItems">
                   <list>
                     <GrepExpressionItem>
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*\[Raw Request\].*\/\s\(.*" />
                       <option name="highlightOnlyMatchingText" value="true" />
                       <option name="style">
@@ -123,6 +124,7 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*\[host:ezzygemini.com\].*" />
                       <option name="highlightOnlyMatchingText" value="true" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
@@ -138,6 +140,7 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*\[Raw Request\].*" />
                       <option name="highlightOnlyMatchingText" value="true" />
                       <option name="style">
@@ -153,6 +156,7 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
+                      <option name="enabled" value="false" />
                       <option name="fold" value="true" />
                       <option name="grepExpression" value=".*\-\s+.*" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
@@ -170,6 +174,7 @@
                     <GrepExpressionItem>
                       <option name="caseInsensitive" value="true" />
                       <option name="continueMatching" value="true" />
+                      <option name="enabled" value="false" />
                       <option name="fold" value="true" />
                       <option name="grepExpression" value=".*\[Handlebars (Helpers?|Partials?|Layouts?)\].*" />
                       <option name="highlightOnlyMatchingText" value="true" />
@@ -186,6 +191,7 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*\[Controller\].*" />
                       <option name="highlightOnlyMatchingText" value="true" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
@@ -202,6 +208,7 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*\[Email\].*" />
                       <option name="highlightOnlyMatchingText" value="true" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
@@ -232,6 +239,7 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
+                      <option name="enabled" value="false" />
                       <option name="fold" value="true" />
                       <option name="grepExpression" value="^\s*\[DBG\]\s+\[Hosts\].*" />
                       <option name="highlightOnlyMatchingText" value="true" />
@@ -248,6 +256,7 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
+                      <option name="enabled" value="false" />
                       <option name="fold" value="true" />
                       <option name="grepExpression" value="^(\#\s+|\{local-ip-address).*" />
                       <option name="highlightOnlyMatchingText" value="true" />
@@ -264,6 +273,7 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*\[New Websocket Connection\].*" />
                       <option name="highlightOnlyMatchingText" value="true" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
@@ -286,6 +296,7 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*\[Websocket Connection Disconnected\].*" />
                       <option name="highlightOnlyMatchingText" value="true" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
@@ -308,6 +319,7 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*\[New Heartbeat\].*" />
                       <option name="highlightOnlyMatchingText" value="true" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
