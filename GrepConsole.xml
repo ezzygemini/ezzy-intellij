@@ -110,10 +110,10 @@
                 <option name="name" value="default" />
               </GrepExpressionGroup>
               <GrepExpressionGroup>
+                <option name="enabled" value="true" />
                 <option name="grepExpressionItems">
                   <list>
                     <GrepExpressionItem>
-                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*\[Raw Request\].*\/\s\(.*" />
                       <option name="highlightOnlyMatchingText" value="true" />
                       <option name="id" value="ed4fdabd-5a51-4004-96c9-ff9bdd25b242" />
@@ -136,7 +136,6 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
-                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*\[host:ezzygemini.com\].*" />
                       <option name="highlightOnlyMatchingText" value="true" />
                       <option name="id" value="cbe5d277-989e-44b8-bcb1-0678449c7871" />
@@ -154,7 +153,6 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*\[Raw Request\].*" />
                       <option name="highlightOnlyMatchingText" value="true" />
                       <option name="id" value="d40cf774-2306-4c8d-b1c5-764524b1a83b" />
@@ -172,7 +170,6 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
-                      <option name="enabled" value="false" />
                       <option name="fold" value="true" />
                       <option name="grepExpression" value=".*\-\s+.*" />
                       <option name="id" value="57604201-4115-4b5c-b66e-875a6d72fb71" />
@@ -192,7 +189,6 @@
                     <GrepExpressionItem>
                       <option name="caseInsensitive" value="true" />
                       <option name="continueMatching" value="true" />
-                      <option name="enabled" value="false" />
                       <option name="fold" value="true" />
                       <option name="grepExpression" value=".*\[Handlebars (Helpers?|Partials?|Layouts?)\].*" />
                       <option name="highlightOnlyMatchingText" value="true" />
@@ -211,7 +207,6 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
-                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*\[Controller\].*" />
                       <option name="highlightOnlyMatchingText" value="true" />
                       <option name="id" value="b4cf02c9-4554-4c9d-8fb0-c905c0bee3fb" />
@@ -230,7 +225,6 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
-                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*\[Email\].*" />
                       <option name="highlightOnlyMatchingText" value="true" />
                       <option name="id" value="8f2018b0-547c-475a-be00-c7aa79442a8a" />
@@ -263,7 +257,6 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
-                      <option name="enabled" value="false" />
                       <option name="fold" value="true" />
                       <option name="grepExpression" value="^\s*\[DBG\]\s+\[Hosts\].*" />
                       <option name="highlightOnlyMatchingText" value="true" />
@@ -282,7 +275,6 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
-                      <option name="enabled" value="false" />
                       <option name="fold" value="true" />
                       <option name="grepExpression" value="^(\#\s+|\{local-ip-address).*" />
                       <option name="highlightOnlyMatchingText" value="true" />
@@ -301,7 +293,6 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
-                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*\[New Websocket Connection\].*" />
                       <option name="highlightOnlyMatchingText" value="true" />
                       <option name="id" value="780f9d86-5ffd-4b28-bc73-9c7ec009a337" />
@@ -326,7 +317,6 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
-                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*\[Websocket Connection Disconnected\].*" />
                       <option name="highlightOnlyMatchingText" value="true" />
                       <option name="id" value="b76261b3-7028-45c0-a80a-4b1bf18c562c" />
@@ -351,7 +341,6 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
-                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*\[User Connection\].*" />
                       <option name="highlightOnlyMatchingText" value="true" />
                       <option name="id" value="bc29acac-02cf-4819-96d6-eea6d7cea78c" />
@@ -376,7 +365,6 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
-                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*\[User Disconnection\].*" />
                       <option name="highlightOnlyMatchingText" value="true" />
                       <option name="id" value="d32e85b2-1e44-4357-b41c-97b4f2607955" />
