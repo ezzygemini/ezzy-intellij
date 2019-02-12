@@ -110,6 +110,7 @@
                 <option name="name" value="default" />
               </GrepExpressionGroup>
               <GrepExpressionGroup>
+                <option name="enabled" value="true" />
                 <option name="grepExpressionItems">
                   <list>
                     <GrepExpressionItem>
