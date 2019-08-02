@@ -15,6 +15,7 @@
       <mapping pattern="deleteExpiredCacheEntries" type="PLAIN_TEXT" />
       <mapping pattern="ComplexLinkQuery" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
       <mapping ext="pfx" type="PLAIN_TEXT" />
