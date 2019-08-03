@@ -4,22 +4,22 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern=".graphqlconfig" type="JSON" />
-      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
-      <mapping pattern="start-profile" type="PLAIN_TEXT" />
-      <mapping pattern="getSiteIdsUsingTemplate" type="PLAIN_TEXT" />
-      <mapping pattern="getAllTables" type="PLAIN_TEXT" />
-      <mapping pattern="TEST_CASES" type="PLAIN_TEXT" />
-      <mapping pattern="asdf" type="PLAIN_TEXT" />
-      <mapping pattern="getCachedData" type="PLAIN_TEXT" />
-      <mapping pattern="search" type="PLAIN_TEXT" />
-      <mapping pattern="deleteExpiredCacheEntries" type="PLAIN_TEXT" />
       <mapping pattern="ComplexLinkQuery" type="PLAIN_TEXT" />
-      <mapping ext="bak" type="PLAIN_TEXT" />
-      <mapping ext="config" type="PLAIN_TEXT" />
+      <mapping pattern="search" type="PLAIN_TEXT" />
+      <mapping pattern="getAllTables" type="PLAIN_TEXT" />
+      <mapping pattern="getSiteIdsUsingTemplate" type="PLAIN_TEXT" />
+      <mapping pattern="asdf" type="PLAIN_TEXT" />
+      <mapping pattern="start-profile" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="getCachedData" type="PLAIN_TEXT" />
+      <mapping pattern="TEST_CASES" type="PLAIN_TEXT" />
+      <mapping pattern="deleteExpiredCacheEntries" type="PLAIN_TEXT" />
+      <mapping ext="tpl" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="pfx" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
-      <mapping ext="tpl" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
