@@ -7,7 +7,10 @@
   </option>
   <option name="RIGHT_MARGIN" value="80" />
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
-  <TypeScriptCodeStyleSettings>
+  <JSCodeStyleSettings version="0">
+    <option name="SPACES_WITHIN_IMPORTS" value="true" />
+  </JSCodeStyleSettings>
+  <TypeScriptCodeStyleSettings version="0">
     <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
   </TypeScriptCodeStyleSettings>
