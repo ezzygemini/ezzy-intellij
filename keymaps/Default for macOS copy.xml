@@ -8,4 +8,7 @@
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl meta alt right" />
   </action>
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="ctrl meta alt h" />
+  </action>
 </keymap>
