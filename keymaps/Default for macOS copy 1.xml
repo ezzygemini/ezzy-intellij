@@ -1,4 +1,4 @@
-<keymap version="1" name="Default for macOS copy" parent="Mac OS X 10.5+">
+<keymap version="1" name="Default for macOS copy 1" parent="Mac OS X 10.5+">
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="ctrl meta alt b" />
   </action>
@@ -7,9 +7,6 @@
   </action>
   <action id="Git.ResolveConflicts">
     <keyboard-shortcut first-keystroke="ctrl meta alt r" />
-  </action>
-  <action id="SplitVertically">
-    <keyboard-shortcut first-keystroke="ctrl meta alt right" />
   </action>
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="ctrl meta alt h" />

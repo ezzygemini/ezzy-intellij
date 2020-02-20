@@ -1,0 +1,38 @@
+<templateSet group="JavaScript">
+  <template name="inst" value="/**&#10; * Default Instance&#10; * @returns {$TYPE$}&#10; */&#10;static get inst() {&#10;  if (!this._default$TYPE$) {&#10;    this._default$TYPE$ = new $TYPE$();&#10;  }&#10;  return this._default$TYPE$;&#10;}" description="Creates the instance method" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="basics" value="@param {HttpBasics} basics The http basics." description="JS doc for HttpBasics" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="template" value="import template from './$TEMPLATE_NAME$';" description="Adds a small import template to the list of imports" toReformat="false" toShortenFQNames="true">
+    <variable name="TEMPLATE_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="graphqlquery" value="import $QUERY_NAME$Query from './qry/$QUERY_NAME$.graphql';&#10;" description="Generates an imported query from a graphql file" toReformat="false" toShortenFQNames="true">
+    <variable name="QUERY_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="graphqloper" value="@param {object} gqlOperation The raw GraphQL operation." description="A comment that has a graphql operation." toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="import-nova" value="import { $VAR$ } from &quot;@novacloudware/$IMPORT$&quot;;&#10;" description="Writes the line to start importing a @novacloudware package." toReformat="true" toShortenFQNames="true">
+    <variable name="IMPORT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
