@@ -6,6 +6,10 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="ezzygemini" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git-codecommit.us-east-2.amazonaws.com" />
+          <option name="userName" value="moises" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
