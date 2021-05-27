@@ -5,7 +5,6 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".env.development.local" type="PLAIN_TEXT" />
       <mapping pattern=".env.dev.local" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
