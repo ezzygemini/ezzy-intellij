@@ -2,6 +2,9 @@
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="ctrl meta alt a" />
   </action>
+  <action id="EditorToggleUseSoftWraps">
+    <keyboard-shortcut first-keystroke="ctrl meta alt s" />
+  </action>
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="ctrl meta alt b" />
   </action>
